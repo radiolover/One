@@ -47,7 +47,11 @@ As part of the Copernicus Programme, CAMS describes the current state of the atm
 <br/>
 
 # Examples
-2024年夏季俄罗斯西伯利亚森林野火季，导致中国东北地区持续性的重度雾霾天气。下图为6月25日至6月30日的预报图。
+2024年俄罗斯西伯利亚森林野火季，导致中国东北地区持续性的重度雾霾天气。下图为6月25日至6月30日的预报图。
+
+The 2024 wildfire season in Siberia, Russia, caused persistent heavy smog in Northeast China.
+The following image shows the forecast from June 25 to June 30.
+
 ![202406250800_大兴安岭地区_aod120h](202406250800_大兴安岭地区_aod120h.png)
 
 # Setup
